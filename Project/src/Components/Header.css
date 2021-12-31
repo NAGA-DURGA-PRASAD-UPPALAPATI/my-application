@@ -1,0 +1,138 @@
+
+
+  .header-logo-image {
+    
+    width: 100%;
+    max-width: 100px;
+    height: auto;
+    margin: 0 20px;
+    margin-top: 18px;
+  }
+  
+
+  .header-account{
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+     
+  }
+  .header-account:hover{
+    color:white;
+    text-decoration: white;
+    
+   
+  }
+
+ 
+  .header-cart{
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+  }
+  
+.header-cart:hover{
+    color:black;
+   background-color: white;
+   
+   
+    
+  }
+  .header-logo:hover{
+    
+    border: 1px solid white;
+    text-decoration: none;
+  }
+
+  
+
+  .search{
+      display: flex;
+   width: 500px;
+   max-width: 800px;
+    flex: 1;
+    align-items: center;
+   
+    
+  }
+  
+
+  
+
+  .sign{
+    border: none;
+    border-radius: 10px;
+    padding: 2px 102px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+  }
+
+  .link{
+    text-decoration: none;
+  }
+
+  .dropdown-menu{
+   
+    width: 600px;
+  
+  }
+  .name{
+    text-transform: uppercase;
+  }
+  .one{
+    font-weight: 800;
+    
+  }
+  .two{
+    font-weight: 900;
+    font-size: larger;
+  }
+  .three{
+    font-weight: 900;
+    font-size: 25px;
+   
+
+  }
+  .four{
+    font-weight: 900;
+    font-size: 25px;
+
+  }
+
+  
+
+
+  
+  @media screen and (max-width:600px)  {
+
+    .search{
+      width: 100%;
+      margin-bottom: auto;
+    }
+   
+    .header-cart{
+      margin-top: 10px;
+      padding: 1px;
+      text-decoration: none;
+      color: white;
+    }
+
+    
+
+  .dropdown-menu{
+   
+    width: 350px;
+  
+  }
+  
+    
+  
+    
+    
+    
+}
+  
+  
+
+ 

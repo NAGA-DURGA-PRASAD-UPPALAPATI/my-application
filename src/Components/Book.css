@@ -1,0 +1,39 @@
+
+
+.book-img{
+   background-color: lightseagreen;
+   
+}
+.user-img{
+    border: 1px solid #ddd;
+    border-radius: 75%;
+    padding: 5px;
+    width: 150px;
+}
+.add-cart{
+    background: #f0c14b;
+    border-radius: 2px;
+    width: 100%;
+    height: 30px;
+    border: 1px solid;
+    margin-top: 10px;
+    border-color: #a88734 #9c7e31 #846a29
+}
+
+.buy-now{
+    background:orangered;
+    border-radius: 2px;
+    width: 100%;
+    height: 30px;
+    border: 1px solid;
+    margin-top: 10px;
+    border-color: #a88734 #9c7e31 #846a29
+}
+.add-list{
+    border-radius: 2px;
+    width: 100%;
+    height: 30px;
+    border: 1px solid;
+    margin-top: 10px;
+    border-color: darkgray;
+}

@@ -1,0 +1,36 @@
+
+
+.cat-img{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    
+    width: 300px;
+   
+   
+    
+}
+.cat-img:hover {
+    transform: scaleX(-1);
+  }
+
+  .cat-card:hover{
+
+    background-color:gray;
+    box-shadow: 0 8px 30px 0 rgba(0, 0, 0, 0.2);
+    color: white;
+
+
+  }
+ 
+
+  .cat-h1:hover{
+      color: orange;
+      cursor: pointer;
+  }
+  .text{
+      color:#900C3F;
+  }
+
+
+
+
